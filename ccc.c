@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-    printf("yegsgsad/n");
+    printf("yyys/n");
+    printf("ggg");
 }
