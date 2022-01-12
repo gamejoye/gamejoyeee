@@ -13,4 +13,5 @@ void main()
     printf("NO\n");
     printf("???????");
     printf("------------");
+    printf("------00");
 }
