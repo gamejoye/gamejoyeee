@@ -22,6 +22,6 @@ void main()
     printf("\n en");
     puts(a);
     puts(b);
-    
+    puts(dasdasda);
     puts(c);
 }
