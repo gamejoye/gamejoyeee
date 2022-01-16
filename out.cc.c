@@ -21,4 +21,7 @@ void main()
         printf("%d ",i);
     printf("\n en");
     puts(a);
+    puts(b);
+    
+    puts(c);
 }
